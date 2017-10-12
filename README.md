@@ -5,6 +5,10 @@ Basic MemCached library using Java
 
 [memcached](https://memcached.org/) - v1.4.25 or above
 
+### Latest Release
+
+[Download - v1.0.0](https://github.com/ripe3/MemJaved/releases/latest)
+
 ### Usage
 
     import MemJaved.MemJaved;
