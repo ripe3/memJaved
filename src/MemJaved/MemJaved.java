@@ -1,5 +1,5 @@
 /*
- * memJaved <https://github.com/ripe3/memJaved>
+ * memJaved <https://github.com/ripe3/MemJaved>
  * 
  * Copyright (C) 2017 - Luis Filipe <https://github.com/ripe3>
  * 
